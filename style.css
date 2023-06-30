@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+   }
+   body {
+    background-color: #AAA;
+    margin: 0px 50px 50px;
+   }
+   /* Each item in the grid contains numbers */
+   .item {
+    padding: 2rem;
+    border: 5px solid #87b5ff;
+    border-radius: 3px;
+    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #1c57b5;
+   }
+
+   .container {
+    display: flex;
+    background-color: #f5ca3c;
+    height: 90vh;
+    align-items: baseline;
+   } 
+   .item2 {
+    font-size: 3em;
+   }
+   .item3 {
+    font-size: 3.5em;
+   } 
